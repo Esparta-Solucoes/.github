@@ -22,7 +22,7 @@ Aqui você encontrará todos os nossos projetos e iniciativas.
     <td align="center">
       <a href="https://github.com/llooorena">
         <img src="https://avatars.githubusercontent.com/u/159478079?v=4" width="115"><br>
-        <sub><b>Lorena</b></sub>
+        <sub><b>Lorena Moreira</b></sub>
       </a>
     </td>
     <td align="center">
