@@ -1,13 +1,20 @@
-# Bem-vindo à [Nome da Organização] 👋
+# Bem-vindo à Esparta Soluções 👋
 
-Aqui você encontrará todos os nossos projetos e iniciativas. Nossa missão é [descrever a missão da organização].
+A organização tem como objetivo registrar projetos ao decorrer do curso de Data Science da FIAP!
+Aqui você encontrará todos os nossos projetos e iniciativas. 
+
 
 ## Principais Projetos
-- [Projeto 1](link) - Descrição do projeto 1
-- [Projeto 2](link) - Descrição do projeto 2
 
-## Contribuições
-Sinta-se à vontade para contribuir com nossos projetos! Veja o [Guia de Contribuição](link).
+- [VigiliumSP](https://github.com/Esparta-Solucoes/VigilumSP) - Enterprise Challenge 2024 - FIAP.
 
-## Contato
-Entre em contato conosco por [e-mail](mailto:email@example.com).
+
+## Colaboradores
+
+https://github.com/AxelPCG
+
+https://github.com/llooorena
+
+https://github.com/melissa-chiado
+
+https://github.com/melissa-chiado
