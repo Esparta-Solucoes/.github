@@ -4,12 +4,12 @@ A organização tem como objetivo registrar projetos ao decorrer do curso de Dat
 Aqui você encontrará todos os nossos projetos e iniciativas. 
 
 
-## Principais Projetos:
+## Principais Projetos
 
 - [VigiliumSP](https://github.com/Esparta-Solucoes/VigilumSP) - Enterprise Challenge 2024 - FIAP.
 
 
-## Colaboradores:
+## Colaboradores
 
 <table align="center">
   <tr>
