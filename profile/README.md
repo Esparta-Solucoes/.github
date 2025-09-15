@@ -7,6 +7,7 @@ Aqui você encontrará todos os nossos projetos e iniciativas.
 ## Principais Projetos
 
 - [VigiliumSP](https://github.com/Esparta-Solucoes/VigilumSP) - Enterprise Challenge 2024 - FIAP.
+- [TOTVS-ATLAS](https://github.com/Esparta-Solucoes/TOTVS-ATLAS) - Enterprise Challenge 2025 - FIAP.
 
 
 ## Colaboradores
